@@ -1,0 +1,1 @@
+(()=>{var o={83:o=>{o.exports=()=>{console.log("my one")}},509:o=>{o.exports=()=>{console.log("my two")}}},r={};function e(t){var s=r[t];if(void 0!==s)return s.exports;var n=r[t]={exports:{}};return o[t](n,n.exports,e),n.exports}(()=>{const o=e(83),r=e(509);o(),r()})()})();
