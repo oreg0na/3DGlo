@@ -1,7 +1,5 @@
-const twoModule = () => {
-    const two ='my two'
+const showFileName = () => {
+  console.log('two.js');
+};
 
-    console.log(two);
-}
-
-module.exports = twoModule
+export default showFileName;
