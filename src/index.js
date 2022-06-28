@@ -1,4 +1,7 @@
 import timer from './modules/timer';
+import menu from './modules/menu';
+import modal from "./modules/modal";
 
-timer('22 june 2022 9:59:00');
-
+timer('24 june 2022');
+menu();
+modal();

@@ -1,5 +1,5 @@
 {
-  "name": "3dglo",
+  "name": "3dgloproject",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "watch": "webpack --watch --mode=development",
     "start": "webpack serve --mode=development --open"
   },
-  "author": "",
+  "author": "Alexey Egupov",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.73.0",
